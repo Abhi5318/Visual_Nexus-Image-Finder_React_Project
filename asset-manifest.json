@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Visual_Nexus-Image-Finder_React_Project/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/Visual_Nexus-Image-Finder_React_Project/static/js/main.23e7470a.chunk.js",
+    "main.js.map": "/Visual_Nexus-Image-Finder_React_Project/static/js/main.23e7470a.chunk.js.map",
+    "runtime-main.js": "/Visual_Nexus-Image-Finder_React_Project/static/js/runtime-main.35358c33.js",
+    "runtime-main.js.map": "/Visual_Nexus-Image-Finder_React_Project/static/js/runtime-main.35358c33.js.map",
+    "static/js/2.1942dfd7.chunk.js": "/Visual_Nexus-Image-Finder_React_Project/static/js/2.1942dfd7.chunk.js",
+    "static/js/2.1942dfd7.chunk.js.map": "/Visual_Nexus-Image-Finder_React_Project/static/js/2.1942dfd7.chunk.js.map",
+    "static/js/3.f43bc6d3.chunk.js": "/Visual_Nexus-Image-Finder_React_Project/static/js/3.f43bc6d3.chunk.js",
+    "static/js/3.f43bc6d3.chunk.js.map": "/Visual_Nexus-Image-Finder_React_Project/static/js/3.f43bc6d3.chunk.js.map",
+    "index.html": "/Visual_Nexus-Image-Finder_React_Project/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/Visual_Nexus-Image-Finder_React_Project/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.1942dfd7.chunk.js.LICENSE.txt": "/Visual_Nexus-Image-Finder_React_Project/static/js/2.1942dfd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35358c33.js",
+    "static/js/2.1942dfd7.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.23e7470a.chunk.js"
+  ]
+}
